@@ -7,7 +7,7 @@ Copy your data from local NFS to cloud without metadata.
 ### Features
 
 - PB level solution.
-- breadth search copy.
-- without metadata.
-- concurrent & high performance.
-- easy to use & no third part dependence.
+- File selection strategy，eg: latest upload file (created time < 1 month) or big file (> 50MB).
+- Without metadata.
+- Concurrent & high performance.
+- Easy to use & no third part dependence.
